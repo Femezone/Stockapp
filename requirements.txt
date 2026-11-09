@@ -1,0 +1,6 @@
+streamlit[auth]
+numpy
+pandas
+plotly>=5.24
+requests
+yfinance>=1.7.0
